@@ -9,4 +9,4 @@
     - DVC version: 1.8.1 (exe)  
       Platform: Python 3.7.9 on Windows-10-10.0.18362-SP0  
       Supports: azure, gdrive, gs, hdfs, http, https, s3, oss, webdav, webdavs
-- dvc initialize [`Katacoda`](https://katacoda.com/dvc/courses/get-started)
+- dvc initialize [`Katacoda`](https://katacoda.com/dvc/courses/get-started) | [`dvc`](https://dvc.org/doc/start)
