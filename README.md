@@ -19,3 +19,6 @@
     - remote add [`dvc`](https://dvc.org/doc/command-reference/remote/add)
 - mnist [`Katacoda`](https://katacoda.com/dvc/courses/tutorials/mnist)
 - MLOps Tutorials [`youtube`](https://www.youtube.com/playlist?list=PL7WG7YrwYcnDBDuCkFbcyjnZQrdskFsBz)
+
+# Semantic Versioning
+Семантическое Версионирование 2.0.0 [`semver`](https://semver.org/)
