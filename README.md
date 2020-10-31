@@ -20,5 +20,5 @@
 - mnist [`Katacoda`](https://katacoda.com/dvc/courses/tutorials/mnist)
 - MLOps Tutorials [`youtube`](https://www.youtube.com/playlist?list=PL7WG7YrwYcnDBDuCkFbcyjnZQrdskFsBz)
 
-# Semantic Versioning [`semver`](https://semver.org/)
+# Semantic Versioning
 Семантическое Версионирование 2.0.0 на русском [`semver`](https://semver.org/lang/ru/)
