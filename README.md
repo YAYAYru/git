@@ -1,5 +1,13 @@
 # git [`link`](https://git-scm.com)
 - Create repo in GitHub and git remote  [`YouTube`](https://youtu.be/kLKBcPonMYw?t=675)
+- Как выложить свой проект на github [`YouTube`](https://youtu.be/CUDgSbaYGx4)
+- Introduction to GitHub Project Boards [`YouTube`](https://youtu.be/idZyqNIrt84) YAYAY:Different Project Boards types
+- Как перетащить папку с проектом в гитхаб [`YouTube`](https://youtu.be/mGLVGBBmqIc)
+- GitHub: tasks, labels & milestones [`YouTube`](https://youtu.be/ukYSRu4k0gs)
+- Github Project Management 1 [`YouTube`](https://youtu.be/RXEy6CFu9Hk) YAYAY: Simple and wow - tasks, labels & milestones
+- Бесплатный хостинг GitHub Pages. Загрузка верстки на сервер. Работа с FTP [`YouTube`](https://youtu.be/84cyW2R9WWo)
+- How Github Automated Kanban Made My Life Easier [`YouTube`](https://youtu.be/qRdht9CS_No) YAYAY:Вот был с Гришей
+
 
 # dvc [`link`](https://www.dvc.org)
 - Install for Windows 
