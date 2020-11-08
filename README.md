@@ -27,6 +27,7 @@
     - remote add [`dvc`](https://dvc.org/doc/command-reference/remote/add)
 - mnist [`Katacoda`](https://katacoda.com/dvc/courses/tutorials/mnist)
 - MLOps Tutorials [`youtube`](https://www.youtube.com/playlist?list=PL7WG7YrwYcnDBDuCkFbcyjnZQrdskFsBz)
+- Job: Senior Python Dev for Open Source Dev Tools [`StackOverFlow`](https://stackoverflow.com/jobs/446359/senior-python-dev-for-open-source-dev-tools-iterative-inc)
 
 # Semantic Versioning
 Семантическое Версионирование 2.0.0 на русском [`semver`](https://semver.org/lang/ru/)
