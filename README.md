@@ -29,6 +29,7 @@
 - MLOps Tutorials [`youtube`](https://www.youtube.com/playlist?list=PL7WG7YrwYcnDBDuCkFbcyjnZQrdskFsBz)
 - Job: Senior Python Dev for Open Source Dev Tools [`StackOverFlow`](https://stackoverflow.com/jobs/446359/senior-python-dev-for-open-source-dev-tools-iterative-inc)
 - Versioning Data with DVC (Hands-On Tutorial!) [`YouTube`](https://youtu.be/kLKBcPonMYw)
+- MLOps Tutorial #1-#6 [`YouTube`](https://www.youtube.com/watch?v=9BgIDqAzfuA&list=PL7WG7YrwYcnDBDuCkFbcyjnZQrdskFsBz) 
 
 # Semantic Versioning
 Семантическое Версионирование 2.0.0 на русском [`semver`](https://semver.org/lang/ru/)
