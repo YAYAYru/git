@@ -39,3 +39,6 @@
 
 # Semantic Versioning
 Семантическое Версионирование 2.0.0 на русском [`semver`](https://semver.org/lang/ru/)
+
+# Other
+- Fullstack open source DevRel [`YouTube`](https://www.youtube.com/c/eddiejaoude/videos)
