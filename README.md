@@ -9,6 +9,7 @@
 - How Github Automated Kanban Made My Life Easier [`YouTube`](https://youtu.be/qRdht9CS_No) YAYAY:Вот был с Гришей
 - git-hands-on [`GitHub`](https://github.com/dahlbyk/git-hands-on)
 - A successful Git branching model [`nvie.com`](https://nvie.com/posts/a-successful-git-branching-model/)
+- GitHub Review • Exploring Workflows [`YouTube`](https://youtu.be/EwWZbyjDs9c)
 
 # ReadMe
 - Awesome GitHub Profile README [`GitHub`](https://github.com/abhisheknaiidu/awesome-github-profile-readme)
