@@ -8,7 +8,7 @@
 - Бесплатный хостинг GitHub Pages. Загрузка верстки на сервер. Работа с FTP [`YouTube`](https://youtu.be/84cyW2R9WWo)
 - How Github Automated Kanban Made My Life Easier [`YouTube`](https://youtu.be/qRdht9CS_No) YAYAY:Вот был с Гришей
 - git-hands-on [`GitHub`](https://github.com/dahlbyk/git-hands-on)
-- A successful Git branching model [`nvie.com`](https://nvie.com/posts/a-successful-git-branching-model/)
++ A successful Git branching model [`nvie.com`](https://nvie.com/posts/a-successful-git-branching-model/)
 - GitHub Review • Exploring Workflows [`YouTube`](https://youtu.be/EwWZbyjDs9c)
 
 # ReadMe
@@ -39,7 +39,7 @@
 - Why Git and Git-LFS is not enough to solve the Machine Learning Reproducibility crisis [`tds`](https://towardsdatascience.com/why-git-and-git-lfs-is-not-enough-to-solve-the-machine-learning-reproducibility-crisis-f733b49e96e8)
 
 # Semantic Versioning
-Семантическое Версионирование 2.0.0 на русском [`semver`](https://semver.org/lang/ru/)
++ Семантическое Версионирование 2.0.0 на русском [`semver`](https://semver.org/lang/ru/)
 
 # Other
 - Fullstack open source DevRel [`YouTube`](https://www.youtube.com/c/eddiejaoude/videos)
