@@ -10,6 +10,7 @@
 - git-hands-on [`GitHub`](https://github.com/dahlbyk/git-hands-on)
 + A successful Git branching model [`nvie.com`](https://nvie.com/posts/a-successful-git-branching-model/)
 - GitHub Review • Exploring Workflows [`YouTube`](https://youtu.be/EwWZbyjDs9c)
+- Русский справочник [`training.github.com`](https://training.github.com/downloads/ru/github-git-cheat-sheet/)
 
 # ReadMe
 - Awesome GitHub Profile README [`GitHub`](https://github.com/abhisheknaiidu/awesome-github-profile-readme)
