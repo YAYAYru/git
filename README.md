@@ -40,6 +40,11 @@
 - MLOps Tutorial #3: Track ML models with Git & GitHub Actions [`YouTube`](https://youtu.be/xPncjKH6SPk)
 - Why Git and Git-LFS is not enough to solve the Machine Learning Reproducibility crisis [`tds`](https://towardsdatascience.com/why-git-and-git-lfs-is-not-enough-to-solve-the-machine-learning-reproducibility-crisis-f733b49e96e8)
 - How to Track your Development Process with DVC by Mark Keinhoerster and Tim Sabsch [`GitHub`](https://youtu.be/oF0qk3Q7g4E)
+- Course: Machine Learning experiments and engineering with DVC [`Udemy`](https://www.udemy.com/course/machine-learning-experiments-and-engineering-with-dvc/)
+  - Tutorial: Versioning Data and Model [`GitHub`](https://github.com/mlrepa/dvc-2-data-versioning/blob/master/dvc-2-data-versioning.ipynb)
+  - Tutorial: Automate DVC experiments [`GitHub`](https://github.com/mlrepa/dvc-3-automate-experiments)
+  - Tutorial: CI/CD and MLOps with DVC [`GitLab`](https://gitlab.com/mlrepa/course-dvc-mlops/dvc-4-ci-mlops)
+ 
 
 # Semantic Versioning
 + Семантическое Версионирование 2.0.0 на русском [`semver`](https://semver.org/lang/ru/)
