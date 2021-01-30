@@ -1,4 +1,5 @@
-# git [`link`](https://git-scm.com)
+# git
+## GitHub and git [`link`](https://git-scm.com)
 - Create repo in GitHub and git remote  [`YouTube`](https://youtu.be/kLKBcPonMYw?t=675)
 - Как выложить свой проект на github [`YouTube`](https://youtu.be/CUDgSbaYGx4)
 - Introduction to GitHub Project Boards [`YouTube`](https://youtu.be/idZyqNIrt84) YAYAY:Different Project Boards types
@@ -13,10 +14,10 @@
 - Русский справочник [`training.github.com`](https://training.github.com/downloads/ru/github-git-cheat-sheet/)
 - Gitflow Workflow [`atlassian.com`](https://www.atlassian.com/git/tutorials/comparing-workflows/gitflow-workflow)
 
-# ReadMe
+## ReadMe
 - Awesome GitHub Profile README [`GitHub`](https://github.com/abhisheknaiidu/awesome-github-profile-readme)
 
-# dvc [`link`](https://www.dvc.org)
+## dvc [`link`](https://www.dvc.org)
 - Install for Windows 
   - Download dvc-1.8.1.exe from [`offical site`](https://dvc.org/)
   - Install
@@ -46,10 +47,10 @@
   - Tutorial: CI/CD and MLOps with DVC [`GitLab`](https://gitlab.com/mlrepa/course-dvc-mlops/dvc-4-ci-mlops)
  
 
-# Semantic Versioning
+## Semantic Versioning
 + Семантическое Версионирование 2.0.0 на русском [`semver`](https://semver.org/lang/ru/)
 
-# colab
+## colab
 Import custom .py module in Google Colab from GitHub URLs [`GitHub`](https://changhsinlee.com/colab-import-python/)
 
 # Other
