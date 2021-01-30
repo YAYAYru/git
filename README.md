@@ -53,5 +53,5 @@
 ## colab
 Import custom .py module in Google Colab from GitHub URLs [`GitHub`](https://changhsinlee.com/colab-import-python/)
 
-# Other
+## Other
 - Fullstack open source DevRel [`YouTube`](https://www.youtube.com/c/eddiejaoude/videos)
