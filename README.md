@@ -15,6 +15,10 @@
 - GitHub Review • Exploring Workflows [`YouTube`](https://youtu.be/EwWZbyjDs9c)
 - Русский справочник [`training.github.com`](https://training.github.com/downloads/ru/github-git-cheat-sheet/)
 - Gitflow Workflow [`atlassian.com`](https://www.atlassian.com/git/tutorials/comparing-workflows/gitflow-workflow)
+GitHub flow
+- Understanding the GitHub flow [GitHub](https://guides.github.com/introduction/flow/) [pdf](https://guides.github.com/pdfs/githubflow-online.pdf)
+- Understanding the GitHub flow [other paper with video](https://blog.sashido.io/the-github-flow-tips-and-tricks/)
+- 
 
 ## ReadMe
 - Awesome GitHub Profile README [`GitHub`](https://github.com/abhisheknaiidu/awesome-github-profile-readme)
