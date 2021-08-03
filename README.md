@@ -14,8 +14,8 @@
   2. если история коммитов не нужна или код из репозитария Вадима не нравится, то можно просто забыть про существующий репозитарий и создавать новый на твоем аккаунте с нуля, добавлять в него правильный код, а Вадим потом сделат от него форк и будет делать новые доработки
 - GitHub Review • Exploring Workflows [`YouTube`](https://youtu.be/EwWZbyjDs9c)
 - Русский справочник [`training.github.com`](https://training.github.com/downloads/ru/github-git-cheat-sheet/)
-- Gitflow Workflow [`atlassian.com`](https://www.atlassian.com/git/tutorials/comparing-workflows/gitflow-workflow)
-GitHub flow
+- Gitflow Workflow [`atlassian.com`](https://www.atlassian.com/git/tutorials/comparing-workflows/gitflow-workflow). 
+GitHub flow. 
 - Understanding the GitHub flow [GitHub](https://guides.github.com/introduction/flow/) [pdf](https://guides.github.com/pdfs/githubflow-online.pdf)
 - Understanding the GitHub flow [other paper with video](https://blog.sashido.io/the-github-flow-tips-and-tricks/)
 - 
