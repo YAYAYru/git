@@ -24,6 +24,12 @@ git reset --hard
 
 - How Github Automated Kanban Made My Life Easier [`YouTube`](https://youtu.be/qRdht9CS_No) YAYAY:Вот был с Гришей
 - GitHub Review • Exploring Workflows [`YouTube`](https://youtu.be/EwWZbyjDs9c)
+- Token authentication requirements for Git operations от Хворостов
+  1. сгенерировать ssh-ключ с помощью команды ssh-keygen https://git-scm.com/book/ru/v2/Git-на-сервере-Генерация-открытого-SSH-ключа
+  2. прописать публичную часть этого ключа в настройках github https://github.com/settings/keys
+  3. клонировать репозитарий не по https, а,например, `git clone git@github.com:YAYAYru/rsl_web_flask.git`
+  4. Или можно пример https://youtu.be/on-MniMwdxM
+
 ### GitHub Flow
   - Understanding the GitHub flow [GitHub](https://guides.github.com/introduction/flow/) [pdf](https://guides.github.com/pdfs/githubflow-online.pdf) [Хабр](https://habr.com/ru/post/346066/)
   - Understanding the GitHub flow [other paper with video](https://blog.sashido.io/the-github-flow-tips-and-tricks/)
