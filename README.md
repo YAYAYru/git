@@ -30,9 +30,11 @@ git reset --hard
   3. клонировать репозитарий не по https, а,например, `git clone git@github.com:YAYAYru/rsl_web_flask.git`
   4. Или можно пример https://youtu.be/on-MniMwdxM
 
-### GitHub Flow
+### Flow
   - Understanding the GitHub flow [GitHub](https://guides.github.com/introduction/flow/) [pdf](https://guides.github.com/pdfs/githubflow-online.pdf) [Хабр](https://habr.com/ru/post/346066/)
   - Understanding the GitHub flow [other paper with video](https://blog.sashido.io/the-github-flow-tips-and-tricks/)
+  - Собираем свой flow для git с нуля [Хабр](https://habr.com/ru/post/493866/) (Говорил: Please stop recommending Git Flow!)
+  - GitHub Flow: рабочий процесс Гитхаба [Хабр](https://habr.com/ru/post/189046/)
 
 
 ## ReadMe
