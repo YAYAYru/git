@@ -20,8 +20,9 @@ git reset --hard
 - SSH-key, то нужно: 
   1. сгенерировать ssh-ключ с помощью команды ssh-keygen
   2. прописать публичную часть этого ключа в настройках github
-  3. клонировать репозитарий не по https, а с адреса git@github.com:YAYAYru/rsl_web_flask.git
-  вот инструкция на русском для п.1 https://git-scm.com/book/ru/v2/Git-на-сервере-Генерация-открытого-SSH-ключа От Хворостова.
+  3. клонировать репозитарий не по https, а с адреса git@github.com:YAYAYru/rsl_web_flask.git  
+  - вот инструкция на русском для п.1 https://git-scm.com/book/ru/v2/Git-на-сервере-Генерация-открытого-SSH-ключа От Хворостова.  
+  - п.2 - добавлять публичный ключ на гитхабе вот в этом разделе https://github.com/settings/keys
 
 ### Project
 - Introduction to GitHub Project Boards [`YouTube`](https://youtu.be/idZyqNIrt84) YAYAY:Different Project Boards types
