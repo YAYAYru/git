@@ -16,6 +16,13 @@ git reset --hard
 ## GitHub
 - Как выложить свой проект на github [`YouTube`](https://youtu.be/CUDgSbaYGx4)
 - Бесплатный хостинг GitHub Pages. Загрузка верстки на сервер. Работа с FTP [`YouTube`](https://youtu.be/84cyW2R9WWo)
+
+- SSH-key, то нужно: 
+  1. сгенерировать ssh-ключ с помощью команды ssh-keygen
+  2. прописать публичную часть этого ключа в настройках github
+  3. клонировать репозитарий не по https, а с адреса git@github.com:YAYAYru/rsl_web_flask.git
+  вот инструкция на русском для п.1 https://git-scm.com/book/ru/v2/Git-на-сервере-Генерация-открытого-SSH-ключа От Хворостова.
+
 ### Project
 - Introduction to GitHub Project Boards [`YouTube`](https://youtu.be/idZyqNIrt84) YAYAY:Different Project Boards types
 - Как перетащить папку с проектом в гитхаб [`YouTube`](https://youtu.be/mGLVGBBmqIc)
