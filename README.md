@@ -13,6 +13,7 @@ git reset --hard
 
 - Русский справочник [`training.github.com`](https://training.github.com/downloads/ru/github-git-cheat-sheet/)
 - Gitflow Workflow [`atlassian.com`](https://www.atlassian.com/git/tutorials/comparing-workflows/gitflow-workflow)  
+- Git for Professionals Tutorial - Tools & Concepts for Mastering Version Control with Git [YouTube](https://youtu.be/Uszj_k0DGsg)
 ## GitHub
 - Как выложить свой проект на github [`YouTube`](https://youtu.be/CUDgSbaYGx4)
 - Бесплатный хостинг GitHub Pages. Загрузка верстки на сервер. Работа с FTP [`YouTube`](https://youtu.be/84cyW2R9WWo)
