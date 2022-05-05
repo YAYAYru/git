@@ -15,6 +15,7 @@ Git from the bottom up [newartisans.com](http://ftp.newartisans.com/pub/git.from
 - Русский справочник [`training.github.com`](https://training.github.com/downloads/ru/github-git-cheat-sheet/)
 - Gitflow Workflow [`atlassian.com`](https://www.atlassian.com/git/tutorials/comparing-workflows/gitflow-workflow)  
 - Git for Professionals Tutorial - Tools & Concepts for Mastering Version Control with Git [YouTube](https://youtu.be/Uszj_k0DGsg)
+- Нумерация версий программного обеспечения [Wikipedia](https://ru.wikipedia.org/wiki/%D0%9D%D1%83%D0%BC%D0%B5%D1%80%D0%B0%D1%86%D0%B8%D1%8F_%D0%B2%D0%B5%D1%80%D1%81%D0%B8%D0%B9_%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%BD%D0%BE%D0%B3%D0%BE_%D0%BE%D0%B1%D0%B5%D1%81%D0%BF%D0%B5%D1%87%D0%B5%D0%BD%D0%B8%D1%8F)
 ## GitHub
 - Как выложить свой проект на github [`YouTube`](https://youtu.be/CUDgSbaYGx4)
 - Бесплатный хостинг GitHub Pages. Загрузка верстки на сервер. Работа с FTP [`YouTube`](https://youtu.be/84cyW2R9WWo)
